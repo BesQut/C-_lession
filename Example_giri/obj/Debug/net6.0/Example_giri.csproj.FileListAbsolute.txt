@@ -1,0 +1,15 @@
+C:\Users\ninds\Desktop\C#_lession\Example_giri\bin\Debug\net6.0\Example_giri.exe
+C:\Users\ninds\Desktop\C#_lession\Example_giri\bin\Debug\net6.0\Example_giri.deps.json
+C:\Users\ninds\Desktop\C#_lession\Example_giri\bin\Debug\net6.0\Example_giri.runtimeconfig.json
+C:\Users\ninds\Desktop\C#_lession\Example_giri\bin\Debug\net6.0\Example_giri.dll
+C:\Users\ninds\Desktop\C#_lession\Example_giri\bin\Debug\net6.0\Example_giri.pdb
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.csproj.AssemblyReference.cache
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.AssemblyInfoInputs.cache
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.AssemblyInfo.cs
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.csproj.CoreCompileInputs.cache
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.dll
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\refint\Example_giri.dll
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.pdb
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\Example_giri.genruntimeconfig.cache
+C:\Users\ninds\Desktop\C#_lession\Example_giri\obj\Debug\net6.0\ref\Example_giri.dll
