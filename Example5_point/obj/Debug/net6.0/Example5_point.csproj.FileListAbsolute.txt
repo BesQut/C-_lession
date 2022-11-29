@@ -1,0 +1,15 @@
+C:\Users\ninds\Desktop\C#_lession\Example5_point\bin\Debug\net6.0\Example5_point.exe
+C:\Users\ninds\Desktop\C#_lession\Example5_point\bin\Debug\net6.0\Example5_point.deps.json
+C:\Users\ninds\Desktop\C#_lession\Example5_point\bin\Debug\net6.0\Example5_point.runtimeconfig.json
+C:\Users\ninds\Desktop\C#_lession\Example5_point\bin\Debug\net6.0\Example5_point.dll
+C:\Users\ninds\Desktop\C#_lession\Example5_point\bin\Debug\net6.0\Example5_point.pdb
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.csproj.AssemblyReference.cache
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.AssemblyInfoInputs.cache
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.AssemblyInfo.cs
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.csproj.CoreCompileInputs.cache
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.dll
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\refint\Example5_point.dll
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.pdb
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\Example5_point.genruntimeconfig.cache
+C:\Users\ninds\Desktop\C#_lession\Example5_point\obj\Debug\net6.0\ref\Example5_point.dll
