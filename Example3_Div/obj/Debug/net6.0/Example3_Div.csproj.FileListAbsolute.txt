@@ -1,0 +1,15 @@
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\bin\Debug\net6.0\Example3_Div.exe
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\bin\Debug\net6.0\Example3_Div.deps.json
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\bin\Debug\net6.0\Example3_Div.runtimeconfig.json
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\bin\Debug\net6.0\Example3_Div.dll
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\bin\Debug\net6.0\Example3_Div.pdb
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.csproj.AssemblyReference.cache
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.AssemblyInfoInputs.cache
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.AssemblyInfo.cs
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.csproj.CoreCompileInputs.cache
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.dll
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\refint\Example3_Div.dll
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.pdb
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\Example3_Div.genruntimeconfig.cache
+C:\Users\ninds\Desktop\C#_lession\Example3_Div\obj\Debug\net6.0\ref\Example3_Div.dll
